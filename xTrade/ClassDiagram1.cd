@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Классы форм">
+    <Position X="4.234" Y="6.094" Height="0.328" Width="6.299" />
+  </Comment>
+  <Comment CommentText="Другие классы">
+    <Position X="4.125" Y="9.581" Height="0.328" Width="6.299" />
+  </Comment>
+  <Class Name="xTrade.AboutBox1" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAACAAAAAA=</HashCode>
+      <FileName>AboutBox1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.AddReqForm" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>egIABAAIACAADBAKBCCIAQTyA0K4AMAAAiAAEgCBRCA=</HashCode>
+      <FileName>AddReqForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.AddTvForm" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAACAAABIAAACAAAACAEAgAJAAECAAEAAAAAA=</HashCode>
+      <FileName>AddTvForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.AddUserForm" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>egAIBAQAACAAAFAAQAiAwAACAUKoEIKAACAAEABAACA=</HashCode>
+      <FileName>AddUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ClientsClass">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAQFACAAIAAKAAgAggBACQAAAAAAACQIAAAAEAAEI=</HashCode>
+      <FileName>ClientsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ClientsForm" Collapsed="true">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBACAAAAAAgEGAANhqAwAACQAAAAAAAIAAAAA=</HashCode>
+      <FileName>ClientsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ClientViewForm" Collapsed="true">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wCgAQAAACBAqJAAAACAAIACAAEQEECAICIAAAwhxGA=</HashCode>
+      <FileName>ClientViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ClTypeAddForm" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAABAAAAACAAAACAAAQAAAAMCAAAAQAACA=</HashCode>
+      <FileName>ClTypeAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.Cost">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAACAAIAABAAAAAAAAAAAAAAAQAAAAABAAA=</HashCode>
+      <FileName>Cost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.DataReq">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAIAABAAAAQIAAEAAQAAAQAAAAAAAAA=</HashCode>
+      <FileName>DataReq.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.FormProd" Collapsed="true">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAkAACAAAAAAIECIAUD6AwAACQAAAAIAIYAAAAA=</HashCode>
+      <FileName>FormProd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.NameObjectMap">
+    <Position X="5.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfoClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.InfoClass">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAECAAAAAAAAAAABACAQgAAAAAAAAABBBAAAA=</HashCode>
+      <FileName>InfoClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.LoginForm" Collapsed="true">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAABEAAACAAAACgAAIAAAAACAIARBAAIA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.MainFormMdi" Collapsed="true">
+    <Position X="7.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IJCwQ/0AhSFAEAAOKgW+wP/yDAFAANphKkxhRjAAxEc=</HashCode>
+      <FileName>MainFormMDI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ManageData" Collapsed="true">
+    <Position X="4" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>ManageData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.PassClass">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="xTrade.PassClass.UssStr">
+        <TypeIdentifier>
+          <NewMemberFileName>PassClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="xTrade.PassClass.NameObjectMapSPass">
+        <TypeIdentifier>
+          <NewMemberFileName>PassClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>PassClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ProduceClass">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAkAEAAgAQAAEABAgAAQAgAEAAQEgAQAAAgAABAA=</HashCode>
+      <FileName>ProduceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.Program" Collapsed="true">
+    <Position X="7.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ReqClass">
+    <Position X="12.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAQEDEAAAAAAIAAEAABAwIAAAEBRBAAwAAAAEAIAA=</HashCode>
+      <FileName>ReqClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ReqForm" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wKQRCkoACCAFBAIJHDIAUD/AwIAAQAIEyAAE4ABRBA=</HashCode>
+      <FileName>ReqForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.SQLConnClass">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLConnClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.TypePr">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAEAAAAAAQAAAkAAQAgARAAAAAAAAA=</HashCode>
+      <FileName>TypePr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.UsersClass">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEQAAEAEAAMAAAAAAAASgIwAACEAAAgSAIIAEQIAAAg=</HashCode>
+      <FileName>UsersClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.UsersForm" Collapsed="true">
+    <Position X="9.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAgAgAACAAAFAAAECIAED6AwAAAAAAEAAAIYBAAAA=</HashCode>
+      <FileName>UsersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.Properties.Resources">
+    <Position X="4" Y="10" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAIgAAAAAAAIAwAgIBANEAQgDYQABAAAOAACAEAEIJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.Properties.Settings" Collapsed="true">
+    <Position X="9.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAABBAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.Md5HashClass">
+    <Position X="4" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAAA=</HashCode>
+      <FileName>md5hashClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="xTrade.DateReqByRecTvID">
+    <Position X="7.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAgABAAA=</HashCode>
+      <FileName>DataReq.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="xTrade.IntStr">
+    <Position X="9.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>InfoClass.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
